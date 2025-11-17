@@ -68,6 +68,5 @@ function findLoyalCustomers(day1Data, day2Data) {
     const loyalHashMap = {};
     const day1 = makeArray(day1Data);
     const day2 = makeArray(day1Data);
-    day1.forEach(record => record.)
 }
 console.log(findLoyalCustomers(jsonl_data_day1, jsonl_data_day2));
